@@ -70,9 +70,9 @@ Official government website for Carmen, Bohol.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deejay1399&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deejay1399&layout=compact)
 
 ---
 
@@ -80,7 +80,7 @@ Official government website for Carmen, Bohol.
 
 - 📧 Email: diomedesjrhinay@gmail.com
 - 💼 LinkedIn: linkedin.com/in/diomedes-jr-hinay
-- 🌐 Portfolio: Add your portfolio link here
+- 🌐 Portfolio: [Add your portfolio link here](https://diomedesjrhinay.vercel.app/)
 - 🐙 GitHub: github.com/deejay1399
 
 ---
