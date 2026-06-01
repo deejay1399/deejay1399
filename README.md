@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://diomedesjrhinay.vercel.app/">
-    <img src="YOUR_BANNER_URL_HERE" width="100%" alt="Diomedes Hinay Banner"/>
+    <img src="/banner.png" width="100%" alt="Diomedes Hinay Banner"/>
   </a>
 </p>
 
