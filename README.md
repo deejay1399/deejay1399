@@ -1,88 +1,200 @@
-# Hi, I'm Diomedes 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,100:2563eb&text=Diomedes%20Hinay&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60" />
+</p>
 
-### Full-Stack Developer | Software Engineer
+<h1 align="center">Hi 👋, I'm Diomedes Hinay</h1>
 
-I'm a software developer from Bohol, Philippines, passionate about building web and mobile applications that solve real-world problems.
+<h3 align="center">
+Full-Stack Developer from the Philippines 🇵🇭
+</h3>
 
-- 🔭 Currently building full-stack applications with React, Supabase, and Flutter
-- 🌱 Learning advanced backend development, cloud deployment, and AI integration
-- 💻 Experienced with JavaScript, PHP, Dart, SQL, and REST APIs
-- 🚀 Built and deployed production applications for businesses and government organizations
-- 🎯 Goal: Join a team where I can grow as a Software Engineer and contribute to meaningful products
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;React+%7C+Flutter+%7C+Supabase;Building+Real+World+Applications;Always+Learning+New+Technologies" />
+</p>
+
+---
+
+## 🚀 About Me
+
+💻 Full-Stack Developer with experience building and deploying real-world web and mobile applications.
+
+🏛️ Contributed to government and business websites.
+
+📱 Published a Flutter application on Google Play Store.
+
+⚡ Experienced with React, Flutter, Supabase, PHP, MySQL, PostgreSQL, Odoo, and WordPress.
+
+🎯 Currently focused on:
+- Full-Stack Development
+- Backend Architecture
+- Cloud Deployment
+- AI-Assisted Development
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,javascript,php,flutter,dart,nodejs,postgres,mysql,supabase,firebase,git,github,vscode,wordpress,java,html,css" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+---
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+## 🔥 Current Focus
 
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
+```txt
+Building scalable web applications
+Learning advanced backend architecture
+Exploring AI integrations
+Improving system design skills
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📱 WeCare App
-Cross-platform mobile application built with Flutter and Supabase.
+<table>
+<tr>
+<td width="50%">
 
-**Tech:** Flutter, Dart, PostgreSQL, Supabase, REST APIs
+### 📱 WeCare App
+
+Cross-platform healthcare application.
+
+**Tech Stack**
+- Flutter
+- Supabase
+- PostgreSQL
+- REST APIs
+
+**Highlights**
+- Published on Google Play Store
+- Authentication
+- Real-time database
+
+</td>
+
+<td width="50%">
 
 ### 🎓 CCIS Connect
-Academic management system with role-based authentication and administration modules.
 
-**Tech:** PHP, CodeIgniter, MySQL, JavaScript, AJAX
+Academic management platform.
+
+**Tech Stack**
+- PHP
+- CodeIgniter
+- MySQL
+- AJAX
+
+**Highlights**
+- Role-based access
+- Admin dashboard
+- CRUD operations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🚛 NRC Transport Service
-Transport management platform built using Odoo.
 
-**Tech:** Odoo, CRM, Fleet Management, Website Builder
+Business transport management system.
+
+**Tech Stack**
+- Odoo
+- CRM
+- Fleet Management
+
+</td>
+
+<td width="50%">
 
 ### 🏛 Carmen Municipality Website
-Official government website for Carmen, Bohol.
 
-**Tech:** WordPress, Elementor, HTML, CSS
+Official government website.
 
----
+**Tech Stack**
+- WordPress
+- Elementor
+- HTML/CSS
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deejay1399&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deejay1399&layout=compact)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: diomedesjrhinay@gmail.com
-- 💼 LinkedIn: linkedin.com/in/diomedes-jr-hinay
-- 🌐 Portfolio: [Add your portfolio link here](https://diomedesjrhinay.vercel.app/)
-- 🐙 GitHub: github.com/deejay1399
+</td>
+</tr>
+</table>
 
 ---
 
-> "Code, Learn, Improve, Repeat."
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deejay1399&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deejay1399&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=deejay1399&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Published Mobile Application
+- 🏛 Built Government Website
+- 💼 Delivered Multiple Client Projects
+- 🎓 BS Information Technology Graduate
+- 🌐 Full-Stack Development Experience
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React Patterns
+- Node.js Backend Development
+- System Design
+- Docker
+- Cloud Infrastructure
+
+---
+
+## ⚡ Fun Facts
+
+- I enjoy turning ideas into working products.
+- I learn best by building real projects.
+- I love solving business problems with software.
+- Coffee ☕ + VS Code 💻 = Productivity
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:diomedesjrhinay@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://linkedin.com/in/diomedes-jr-hinay">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/deejay1399">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deejay1399&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<h3 align="center">
+"Building software that solves real-world problems."
+</h3>
