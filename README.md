@@ -96,14 +96,17 @@ Official government website.
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Stats
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=deejay1399&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deejay1399&layout=compact&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deejay1399&theme=tokyonight" width="100%"/>
 </p>
-
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=deejay1399&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deejay1399&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deejay1399&theme=tokyonight" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deejay1399&theme=tokyonight&utcOffset=8" width="32%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=deejay1399&theme=tokyonight" />
 </p>
 
 ---
