@@ -93,17 +93,14 @@ Official government website.
 - CSS
 
 ---
-
-## 📈 GitHub Stats
-
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deejay1399&theme=tokyonight" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deejay1399&theme=tokyonight&cache_seconds=86400" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deejay1399&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deejay1399&theme=tokyonight" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deejay1399&theme=tokyonight&utcOffset=8" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deejay1399&theme=tokyonight&cache_seconds=86400" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deejay1399&layout=donut&theme=tokyonight&cache_seconds=1800" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=deejay1399&theme=tokyonight&utcOffset=8&cache_seconds=86400" width="32%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deejay1399&theme=tokyonight" />
