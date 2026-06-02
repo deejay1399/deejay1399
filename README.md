@@ -52,45 +52,14 @@ Full-Stack Developer from the Philippines 🇵🇭
 
 ## 🔥 Featured Projects
 
-### 📱 WeCare App
+<div align="center">
 
-Healthcare mobile application built with Flutter and Supabase.
+| | | |
+|---|---|---|
+| <table><tr><td align="center"><img src="https://img.shields.io/badge/Healthcare-Mobile-1D9E75?style=for-the-badge" /></td></tr><tr><td><h3>📱 WeCare App</h3><p>Healthcare mobile application with patient management, appointments, and real-time data sync.</p><p><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></p></td></tr></table> | <table><tr><td align="center"><img src="https://img.shields.io/badge/Academic-Platform-378ADD?style=for-the-badge" /></td></tr><tr><td><h3>🎓 CCIS Connect</h3><p>Academic management platform with role-based access control for students and faculty.</p><p><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></p></td></tr></table> | <table><tr><td align="center"><img src="https://img.shields.io/badge/Business-Management-BA7517?style=for-the-badge" /></td></tr><tr><td><h3>🚛 NRC Transport</h3><p>Business transport management platform with CRM integration and fleet tracking.</p><p><img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white"/> <img src="https://img.shields.io/badge/CRM-FF6B35?style=flat"/> <img src="https://img.shields.io/badge/Fleet_Mgmt-6B7280?style=flat"/></p></td></tr></table> |
+| <table><tr><td align="center"><img src="https://img.shields.io/badge/Government-Website-D4537E?style=for-the-badge" /></td></tr><tr><td><h3>🏛 Carmen Municipality</h3><p>Official government website — accessible, informative, and professionally designed.</p><p><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/> <img src="https://img.shields.io/badge/Elementor-92003B?style=flat&logo=elementor&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></p></td></tr></table> | | |
 
-**Tech Stack**
-- Flutter
-- Dart
-- Supabase
-- PostgreSQL
-- REST APIs
-
-### 🎓 CCIS Connect
-
-Academic management platform with role-based access control.
-
-**Tech Stack**
-- PHP
-- CodeIgniter
-- MySQL
-- AJAX
-
-### 🚛 NRC Transport Service
-
-Business transport management platform.
-
-**Tech Stack**
-- Odoo
-- CRM
-- Fleet Management
-
-### 🏛 Carmen Municipality Website
-
-Official government website.
-
-**Tech Stack**
-- WordPress
-- Elementor
-- HTML
-- CSS
+</div>
 
 ---
 ## 📈 GitHub Stats
