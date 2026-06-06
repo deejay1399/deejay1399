@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Diomedes Hinay</h1>
+<h1 align="center">Hi 👋, I'm Diomedes Jr. Hinay</h1>
 
 <h3 align="center">
 Full-Stack Developer from the Philippines 🇵🇭
@@ -30,7 +30,7 @@ Full-Stack Developer from the Philippines 🇵🇭
 
 🏛️ Contributed to government and business websites.
 
-⚡ Experienced with React, Flutter, PHP, Supabase, PostgreSQL, MySQL, Odoo, and WordPress.
+⚡ Experienced with React, Flutter, PHP, Supabase, PostgreSQL, Firebase, MySQL, Odoo, and WordPress.
 
 🎯 Currently focused on:
 
@@ -45,7 +45,7 @@ Full-Stack Developer from the Philippines 🇵🇭
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,javascript,php,flutter,dart,nodejs,supabase,postgres,mysql,firebase,git,github,vscode,wordpress,java,html,css" />
+<img src="https://skillicons.dev/icons?i=react,javascript,php,flutter,dart,nodejs,supabase,postgres,mysql,firebase,git,github,vscode,wordpress,java,html,css,hostinger" />
 </p>
 
 ---
